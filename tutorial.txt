@@ -1,0 +1,9 @@
+====Configurar usuario no pc da escola====
+
+git config --global user.name "Leonardo" - nome usuario de quem esta usando o diretorio 
+git config --global user.email (EMAIL) - setar email
+git config --list - checa a lista de pessoas usando o diretorio
+
+====Clonar diretório====
+git clone shift insert - cria clone do repositorio do github
+ 	
